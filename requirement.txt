@@ -1,2 +1,6 @@
-ChatterBot-0.8.4
+ChatterBot
 simple-websocket-server
+sklearn
+pandas
+nltk
+datetime
